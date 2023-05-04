@@ -35,7 +35,7 @@ The data model relationships are as follows:
 
 ## Database Setup
 
-1. [Navigate to the file here](https://raw.githubusercontent.com/learn-co-curriculum/devops-m3-sql-join/write-lesson/create_vetdb.sql).
+1. [Navigate to the file here](https://raw.githubusercontent.com/learn-co-curriculum/devops-m3-sql-join/main/create_vetdb.sql).
 2. Right-click anywhere on the page > select "Save as" to save the file.
    1. Save the file as "create_vetdb.sql". Make sure to save it as a SQL file!
    2. Remember the place the file is saved, as we'll need it in a following
